@@ -11,9 +11,13 @@ With Vowel Checker, you can simply input your text or paste your string into the
 <h2>Key Features:</h2>
 
 ✅ Instant Vowel Analysis: Obtain real-time results with lightning speed.
+
 ✅ User-Friendly Interface: Our intuitive design ensures a seamless user experience.
+
 ✅ Accurate Counting: Vowel Checker leaves no vowel unnoticed, providing precise results.
+
 ✅ Versatility: Use it for words, sentences, or even entire paragraphs!
+
 
 
 <h2>Why Choose Vowel Checker?</h2>
