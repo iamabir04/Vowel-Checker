@@ -36,3 +36,11 @@ Whether you're a student, a writer, a linguist, or simply curious about language
 - [x] I have made corresponding changes to the documentation
 - [x] My changes generate no new warnings
 - [x] The title of my pull request is a short description of the requested changes.
+
+#Working Screenshots:
+
+![1](https://github.com/iamabir04/Vowel-Checker/assets/108453813/c7823e0f-20b2-4535-9a78-982813fc1a26)
+![2](https://github.com/iamabir04/Vowel-Checker/assets/108453813/4d34bf8b-185d-4a86-9c89-0fb214809687)
+
+
+
