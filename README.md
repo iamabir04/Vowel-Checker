@@ -1,6 +1,6 @@
 # Description
 
-<h1>Welcome to Vowel Checker - Your Ultimate Vowel Analysis Tool! </h1>
+<h1>Welcome to Vowel Checker - Your Ultimate Vowel Analysis Tool!</h1>
 
 Are you looking to effortlessly check the number of vowels in a text or string? Look no further! Vowel Checker, a dynamic website crafted using HTML, CSS, and JavaScript, is here to simplify your vowel counting needs.
 
