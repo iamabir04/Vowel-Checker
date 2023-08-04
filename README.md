@@ -4,7 +4,6 @@
 
 Are you looking to effortlessly check the number of vowels in a text or string? Look no further! Vowel Checker, a dynamic website crafted using HTML, CSS, and JavaScript, is here to simplify your vowel counting needs.
 
-
 <h2>How does it work?</h2>
 
 With Vowel Checker, you can simply input your text or paste your string into the user-friendly interface, and our powerful JavaScript engine will quickly analyze it. In just a blink of an eye, you'll get a clear breakdown of each vowel's count, including both uppercase and lowercase instances.
@@ -19,12 +18,9 @@ With Vowel Checker, you can simply input your text or paste your string into the
 
 ✅ Versatility: Use it for words, sentences, or even entire paragraphs!
 
-
-
 <h2>Why Choose Vowel Checker?</h2>
 
 Whether you're a student, a writer, a linguist, or simply curious about language patterns, Vowel Checker is an indispensable tool for various scenarios. It aids in spelling assessments, language studies, and content optimization, all with just a few clicks!
-
 
 # Checklist:
 
